@@ -1,2 +1,3 @@
 print("Hello World")
-Print("Hello every body")
+print("Hello every body")
+print("Hello gyes")
